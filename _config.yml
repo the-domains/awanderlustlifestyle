@@ -1,0 +1,28 @@
+name: awanderlustlifestyle
+favicon: null
+layout_spectrum: 0.44403913407586515
+typography_spectrum: 0.995602905517444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5437028303276747
+  lightness: 0.329110246617347
+  saturation: 0.8244620384648442
+  rhythmicContrast: 0.22333842585794628
+purpose: []
