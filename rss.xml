@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[A Wanderlust Lifestyle]]></title>
         <description><![CDATA[A Wanderlust Lifestyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/awanderlustlifestyle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 18:06:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 15:34:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/awanderlustlifestyle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A Wanderlust Lifestyle</p>]]></description>
-            <link>undefinedb7906e0e-89d0-42e9-a38a-7311c058fa7f/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1a8894-0c97-4fbb-81fc-beb0321ec0f7.jpg">]]></description>
+            <link>https://thegrid.ai/awanderlustlifestyle/b7906e0e-89d0-42e9-a38a-7311c058fa7f/index.html</link>
             <guid isPermaLink="false">b7906e0e-89d0-42e9-a38a-7311c058fa7f</guid>
-            <pubDate>Fri, 12 Feb 2016 18:06:42 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 15:34:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
